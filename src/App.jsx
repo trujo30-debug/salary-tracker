@@ -4,7 +4,7 @@ import ShiftHistory from "./components/ShiftHistory"
 
 import { useEffect, useState } from "react"
 
-import CalendarView from "./components/CalendarView"
+import CalendarView from "./components/calendarView"
 
 import PayrollSummary from "./components/PayrollSummary"
 
