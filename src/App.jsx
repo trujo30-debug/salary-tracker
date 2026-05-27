@@ -6,7 +6,7 @@ import { useEffect, useState } from "react"
 
 import CalendarView from "./components/calendarView"
 
-import PayrollSummary from "./components/PayrollSummary"
+import PayrollSummary from "./components/PayrollPanel"
 
 import ConfigPanel from "./components/ConfigPanel"
 
